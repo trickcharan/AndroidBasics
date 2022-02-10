@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Tech Session</string>
+    <string name="sample_button">Sample Button</string>
+    <string name="sample_text_view">Sample Text view</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="warning">Warning</string>
+    <string name="message">You have clicked the button!!!</string>
+    <string name="ok">OK</string>
+    <string name="clicked">Clicked</string>
+    <string name="start_game">Start game</string>
 </resources>
